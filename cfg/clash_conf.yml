@@ -131,7 +131,7 @@ BASE-DATA:
       # - local
     proxy-providers-common:
       airport-interval: &airport-interval 36000
-      url-airport: &url-airport "" # 这里填入机场链接
+      url-airport: &url-airport "https://sub.2201570.workers.dev/sub?target=clash&url=https%3A%2F%2Fyoutulink3.top%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D32e90182b45cd768e1d0fee0bf5b7d32%7Chttps%3A%2F%2Fxn--9kq49wbqk.site%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D1a69232879ca4c9be66c1b6ff821a02d&insert=false" # 这里填入机场链接
       proxy-file-path-AirPort: &proxy-file-path-AirPort myprovider/proxies/provider-airport.yml
       url-warp: &url-warp "" # 这里填入直接托管的WARP配置
       proxy-file-path-warp: &proxy-file-path-warp myprovider/proxies/provider-warp.yml
