@@ -5,6 +5,7 @@
 # 部分域名可能和大陆域名列表存在重叠
 #银河录像局
 DOMAIN-SUFFIX,nf.video
+DOMAIN-SUFFIX,galaxydvd.com
 
 # ImmortalWrt 在线更新服务
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
