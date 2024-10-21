@@ -13,8 +13,6 @@ DOMAIN-SUFFIX,dogsvip.site
 DOMAIN-SUFFIX,todesk.com
 # 石头科技
 DOMAIN-SUFFIX,roborock.com
-# 猫眼浏览器
-DOMAIN-SUFFIX,catsxp.com
 # 推送加
 DOMAIN-SUFFIX,pushplus.plus
 # 其他域名
@@ -22,34 +20,6 @@ DOMAIN-SUFFIX,kit327.com
 # Windows 网络连接探测
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
-# 暴雪战网国际服下载节点
-DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
-DOMAIN-SUFFIX,level3.blizzard.com
-DOMAIN-SUFFIX,kr.cdn.blizzard.com
-DOMAIN-SUFFIX,us.cdn.blizzard.com
-DOMAIN-SUFFIX,eu.cdn.blizzard.com
-IP-CIDR,137.221.64.0/24,no-resolve
-IP-CIDR,8.251.135.126/32,no-resolve
-IP-CIDR,8.251.246.126/32,no-resolve
-# 互动游戏对战平台
-DOMAIN-SUFFIX,fxt365.com
-# 微软飞行模拟 2020 游戏内下载 CDN
-DOMAIN,pf-cdn-content-prod.azureedge.net
-# 蓝点网
-DOMAIN-SUFFIX,landiannews.com
-DOMAIN-SUFFIX,lancdn.com
-# 5E 对战平台
-DOMAIN-SUFFIX,5eplay.com
-# 松下智能家居
-DOMAIN-SUFFIX,psmartcloud.com
-# 麦瑞克健身设备 & 超燃脂APP
-DOMAIN-SUFFIX,merach.com
-# 暴雪战网国服相关
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,leihuo.netease.com
-# 太川门禁系统
-DOMAIN-SUFFIX,taichuan.com
-DOMAIN-SUFFIX,taichuan.net
 # PT 下载相关
 DOMAIN-KEYWORD,tracker
 # Akamai CDN
@@ -60,7 +30,7 @@ IP-CIDR,5.5.5.5/32,no-resolve
 DOMAIN-SUFFIX,95504test.com
 # 小众软件论坛
 DOMAIN-SUFFIX,appinn.net
-# Emby 小雅 相关
+# Emby 小雅 相关 网盘
 DOMAIN-SUFFIX,ddsrem.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ggbond.org
@@ -68,20 +38,32 @@ DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,xhofe.top
 DOMAIN-SUFFIX,xiaoyakeeper.u.1996999.xyz
 DOMAIN-SUFFIX,wwwh.eu.org
-# 江苏健康通
-DOMAIN-SUFFIX,jsehealth.com
-# 国内 CDN
+# 三星
+DOMAIN-SUFFIX,anrdoezrs.net
+DOMAIN-SUFFIX,galaxyappstore.com
+DOMAIN-SUFFIX,game-platform.net
+DOMAIN-SUFFIX,knoxemm.com
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsungapps.com
+DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,samsungdm.com
+DOMAIN-SUFFIX,samsungeshop.com.cn
+DOMAIN-SUFFIX,samsunggalaxyfriends.com
+DOMAIN-SUFFIX,samsungknox.com
+DOMAIN-SUFFIX,samsungqbe.com
+# CDN 小众网站
 DOMAIN-SUFFIX,cjjd19.com
-# UniGetUI
-DOMAIN-SUFFIX,powershellgallery.com
-# 魔兽世界 新手盒子
-DOMAIN-SUFFIX,newbeebox.com
-DOMAIN-SUFFIX,wclbox.com
-# NTP Pool Project
-DOMAIN-SUFFIX,pool.ntp.org
-# 明经 CAD 社区
-DOMAIN-SUFFIX,mjtd.com
-# Dell
-DOMAIN-SUFFIX,dell.com
-# 魔兽工坊
-DOMAIN-SUFFIX,miaoyanai.com
+DOMAIN-SUFFIX,liuliangbang.vip
+DOMAIN-SUFFIX,474b.com
+DOMAIN-SUFFIX,macked.app
+DOMAIN-SUFFIX,shutuo.tv
+DOMAIN-SUFFIX,yicanggongyi.com
+DOMAIN-SUFFIX,explinks.com
+DOMAIN-SUFFIX,yxzhi.com
+DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,cdnlz3.com
+DOMAIN-SUFFIX,antpcdn.com
+DOMAIN-SUFFIX,xiaoe-tech.com
+DOMAIN-SUFFIX,xiaoeknow.com
+DOMAIN-SUFFIX,yuqi.fun
+DOMAIN-SUFFIX,qq.com
