@@ -1,10 +1,3 @@
-# NAME: Custom_Direct
-# AUTHOR: Aethersailor
-# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
-# 强制直连域名列表，来自个人收集
-# 部分域名可能和中国大陆域名列表存在重叠
-# 规则内容较少，不会影响性能，请放心使用
-
 # ImmortalWrt 在线更新服务
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库
@@ -18,8 +11,8 @@ DOMAIN-SUFFIX,apiurl.v1.mk
 DOMAIN-SUFFIX,dogsvip.site
 # Todesk
 DOMAIN-SUFFIX,todesk.com
-# 追觅科技
-DOMAIN-SUFFIX,dreame.tech
+# 石头科技
+DOMAIN-SUFFIX,roborock.com
 # 猫眼浏览器
 DOMAIN-SUFFIX,catsxp.com
 # 推送加
