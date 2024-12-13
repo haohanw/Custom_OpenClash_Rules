@@ -67,3 +67,21 @@ DOMAIN-SUFFIX,xiaoe-tech.com
 DOMAIN-SUFFIX,xiaoeknow.com
 DOMAIN-SUFFIX,yuqi.fun
 DOMAIN-SUFFIX,qq.com
+# docker镜像直链
+DOMAIN,hub.geekery.cn
+DOMAIN,hub.littlediary.cn
+DOMAIN,docker.rainbond.cc
+DOMAIN,docker.unsee.tech
+DOMAIN,docker.m.daocloud.io
+DOMAIN,hub.crdz.gq
+DOMAIN,docker.nastool.de
+DOMAIN,hub.firefly.store
+DOMAIN,registry.dockermirror.com
+DOMAIN,docker.1panelproxy.com
+DOMAIN,hub.rat.dev
+DOMAIN,docker.udayun.com
+DOMAIN,docker.kejilion.pro
+DOMAIN,dhub.kubesre.xyz
+DOMAIN,docker.1panel.live
+DOMAIN,dockerpull.org
+DOMAIN,docker.hlmirror.com
