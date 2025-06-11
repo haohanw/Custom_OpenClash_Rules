@@ -3,5 +3,6 @@
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN,d1q6f0aelx0por.cloudfront.net
+IP-CIDR,192.210.163.119/8
 # Docker原版镜像
 
